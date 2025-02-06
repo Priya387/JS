@@ -1,0 +1,9 @@
+
+#boards{
+    display:flex;
+
+    justify-content:center;
+}
+#board{
+    border:1px solid red;
+}
